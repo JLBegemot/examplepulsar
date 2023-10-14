@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 123
 изменение Бубнова Г.А.
+=======
+canged from Marina
+
+123
+>>>>>>> ef4bda8fe2fb9eeb87cd88fa00952c27895c1716
