@@ -1,3 +1,4 @@
+STR
 String added
 One more string added
 changed by Olga Z
